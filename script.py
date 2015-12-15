@@ -1,4 +1,4 @@
-#licensed
+#licensed for reals
 #All right reserved
 
 # Analyze bird counts
