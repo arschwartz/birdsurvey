@@ -1,3 +1,4 @@
+#licensed
 #All right reserved
 
 # Analyze bird counts
